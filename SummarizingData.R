@@ -82,7 +82,7 @@ restData[ restData$zipCode %in% c("21212", "21213"),  ]
 # Loading data on Berkeley admissions data (one of the classic data sets in R).
 data("UCBAdmissions")
 DF <- as.data.frame(UCBAdmissions)
-# With the summary we can see there are four variables
+# With the summary we can see there are four variables.
 summary(DF)
 
 # Corss tabs: identify where the relationships exist in this data set.
