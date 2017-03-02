@@ -37,5 +37,5 @@
 # - figshare and rfigshare
 # - PLoS and rplos
 # - rOpenSci
-# - Facebook and RFacebook
+# - Facebook and RFacebook.
 # - Google maps and RGoogleMaps
