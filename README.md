@@ -1,6 +1,6 @@
 # Coursera - Getting and Cleaning Data
 
-This repository contains lectures notes and the project activity from the Coursera [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) course, which is part oh the
+This repository contains lectures notes and the project activity from the Coursera [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) course, which is part of the
 [Data Science](https://www.coursera.org/specializations/jhu-data-science) specialization.
 
 The course was developed by Johns Hopkins University and was conducted by Jeff Leek, Roger Peng and Brian Caffo.
